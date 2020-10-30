@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"-->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dsdfsfjf"
+            android:title="dilip" />
+        <item
+            android:id="@+id/meassage"
+            android:title="dilip" />
+        <item
+            android:id="@+id/mesbsage"
+            android:title="dilip" />
+    </group>
+
+
+    <item android:title="hello">
+        <menu>
+            <item
+                android:id="@+id/sahdh"
+                android:title="jgjsfgs" />
+
+            <item
+                android:id="@+id/sdsad"
+                android:title="hfkdhff" />
+        </menu>
+    </item>
+</menu>

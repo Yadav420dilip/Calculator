@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alex_brush</item>
+        <item>@font/arbutus</item>
+        <item>@font/asset</item>
+        <item>@font/bungee</item>
+        <item>@font/cutive</item>
+        <item>@font/diplomata</item>
+        <item>@font/dr_sugiyama</item>
+        <item>@font/im_fell_double_pica</item>
+        <item>@font/nosifer</item>
+    </array>
+</resources>

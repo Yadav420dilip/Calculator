@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/my_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stackFromBottom="true">
+
+    </ListView>
+
+
+    <TextView
+        android:id="@+id/my_statement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textNoSuggestions|textMultiLine"
+        android:textAlignment="textStart"
+        android:textColor="@color/Black"
+        android:textSize="30sp"
+        tools:ignore="TextViewEdits">
+    </TextView>
+
+    <TextView
+        android:id="@+id/my_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:textAlignment="textEnd"
+        android:textColor="@color/Blue"
+        android:textSize="20sp"
+        tools:ignore="TextViewEdits">
+    </TextView>
+
+
+
+</LinearLayout>
